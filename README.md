@@ -3,7 +3,7 @@ This repository extracts the top level domain using Mozilla's public suffix list
 
 https://publicsuffix.org/list/effective_tld_names.dat
 
-**To Extract the Top Level Domain do:**
+**To Extract the Top Level Domain :**
     
     1. require"TLDExtract"
     2. t = TLDExtract.create(url)
